@@ -20,14 +20,7 @@ It demonstrates:
 - [Project Overview](#project-overview)
 - [What the Script Does](#what-the-script-does)
 - [Requirements](#requirements)
-- [Quick Start](#quick-start)
-- [Repository Structure](#repository-structure)
-- [Outputs & Artifacts](#outputs--artifacts)
-- [Methodology Notes](#methodology-notes)
-- [Configuration](#configuration)
-- [Troubleshooting](#troubleshooting)
-- [Extending the Project](#extending-the-project)
-- [License](#license)
+
 
 ---
 
